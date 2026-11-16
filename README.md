@@ -120,8 +120,6 @@ O arquivo [`dashboard_energia.ipynb`](dashboard_energia.ipynb) roda no Google Co
 5. simula 30 dias com chuva e apagões (**dados simulados**);
 6. calcula os indicadores e desenha o dashboard.
 
-Para testar outros cenários, basta mudar os valores da célula 2.1 (por exemplo, a tarifa ou o número de abrigos) e rodar de novo.
-
 ## 9. Limitações
 
 - Os custos de implantação são **estimativas de ordem de grandeza**, não um orçamento comercial.
@@ -130,8 +128,6 @@ Para testar outros cenários, basta mudar os valores da célula 2.1 (por exemplo
 - A simulação de 30 dias usa **dados simulados**, e não medições reais.
 - As emissões consideram só a operação; a fabricação do painel e da bateria não entra na conta.
 - Como a matriz elétrica brasileira já é bastante renovável, o maior ganho ambiental vem da **eficiência (LED + sensor)** e não da troca de fonte. O maior ganho do solar é a **resiliência em apagões**.
-
-> Todas as economias e reduções apresentadas são **projeções** que dependem das premissas acima, e não resultados garantidos.
 
 ## 10. Referências
 
