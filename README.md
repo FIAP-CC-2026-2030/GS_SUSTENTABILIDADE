@@ -15,7 +15,7 @@ Turma: **[1CCPA]**
 
 ## Vídeo de apresentação
 
-- Link do video:
+- Link do video: https://youtu.be/jSE4esSF6R0
 - Link do Colab(Dashboard): https://colab.research.google.com/drive/17RWmCTjL2eU2zCG59xFXh-EjwGIhS6ce?usp=sharing
 ---
 
