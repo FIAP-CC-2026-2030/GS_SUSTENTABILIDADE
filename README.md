@@ -23,7 +23,7 @@ Turma: **[1CCPA]**
 
 O **Cidadão Seguro** é o projeto do nosso grupo sobre a segurança da rua: alertas de calor e chuva extremos e problemas como poste apagado, bueiro entupido e alagamento.
 
-Nesta disciplina, olhamos para um lugar do bairro onde a energia faz diferença direta na segurança: **os abrigos de ônibus**. Hoje os 10 abrigos da Vila Aurora usam lâmpadas fluorescentes acesas a noite inteira e dependem só da rede elétrica. Ou seja, eles gastam mais energia do que precisam e **ficam no escuro quando a chuva derruba a energia**, que é justamente quando o passageiro mais precisa de um lugar iluminado.
+Olhamos para um lugar do bairro onde a energia faz diferença direta na segurança: **os abrigos de ônibus**. Hoje os 10 abrigos da Vila Aurora usam lâmpadas fluorescentes acesas a noite inteira e dependem só da rede elétrica. Ou seja, eles gastam mais energia do que precisam e **ficam no escuro quando a chuva derruba a energia**, que é justamente quando o passageiro mais precisa de um lugar iluminado.
 
 Isso não é hipotético: em dezembro de 2025, um ciclone extratropical deixou mais de 2 milhões de imóveis sem energia na área da Enel SP.
 
